@@ -1,0 +1,2 @@
+# Attendance-system-using-face-recognition
+The system is designed using Python OpenCV platform. It is  Face recognition based Attendance Management System by using OpenCV(Python). One can mark their attendance by simply facing the camera.. This algorithm compares the test image and training image and determines students who are present and absent. The attendance record is maintained in an excel sheet which is updated automatically in the system.
